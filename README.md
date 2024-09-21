@@ -50,7 +50,7 @@ npm install -g http-server
 # Execute o servidor local
 http-server .
 
-# O site estará disponível em http://localhost:8080
+# O site estará disponível em ...
 4. Visualizar o Site
 Abra o navegador e navegue até o endereço onde o site está sendo servido, seja localmente ou com o Live Server.
 
